@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome_note1">Welcome to</string>
+    <string name="welcome_note2">Trivia App</string>
+    <string name="trivia_loading">Loading Trivia</string>
+    <string name="trivia_ready">Trivia Ready</string>
+    <string name="trivia_unAvailable">Trivia UnAvailable</string>
+    <string name="trivia_exit">Exit</string>
+    <string name="trivia_start">Start Trivia</string>
+    <string name="image_loading_hint">Loading Image</string>
+    <string name="quiz_quit">Quit</string>
+    <string name="quiz_next">Next</string>
+    <string name="stats_title">Trivia Stats</string>
+    <string name="stats_subTitle">Correct Answers</string>
+    <string name="stats_tryAgain">Try again and see if you can get all the correct answers!</string>
+    <string name="quiz_tryAgain">Try Again</string>
+    <string name="toast_has_no_internet">No Internet Connection</string>
+</resources>
